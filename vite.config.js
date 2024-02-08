@@ -3,5 +3,5 @@ import {
 } from "vite";
 
 export default defineConfig({
-    base: "/vite-app"
+    base: "/vite-ulalal"
 })
